@@ -3,12 +3,12 @@
  */
 public class Product extends Binary {
 
-    public Product(ArithmeticExp newLeft, ArithmeticExp newRight) {
+    public Product(int newLeft, int newRight) {
         super(newLeft, newRight);
     }
 
     @Override
-    public String evaluate() {
-        return "";
+    public int evaluate() {
+        return super.left * super.right;
     }
 }

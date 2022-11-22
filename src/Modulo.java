@@ -3,13 +3,14 @@
  */
 public class Modulo extends Binary {
 
-    public Modulo(ArithmeticExp newLeft, ArithmeticExp newRight) {
+    public Modulo(int newLeft, int newRight) {
         super(newLeft, newRight);
+        evaluate();
     }
 
     @Override
-    public String evaluate() {
-        return "";
+    public int evaluate() {
+        return super.left % super.right;
     }
 
 }

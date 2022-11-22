@@ -3,16 +3,17 @@
  */
 public class Binary extends ArithmeticExp {
 
-    ArithmeticExp left;
-    ArithmeticExp right;
+    int left;
+    int right;
 
-    public Binary(ArithmeticExp newLeft, ArithmeticExp newRight){
+    public Binary(int newLeft, int newRight){
         left = newLeft;
         right = newRight;
+        evaluate();
     }
 
     @Override
-    public String evaluate() {
-        return "";
+    public int evaluate() {
+        return 0;
     }
 }

@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16e1fb79-3d05-42be-a07d-7d9814eb77f7" name="Changes" comment="Added Subclasses Product, Sum and Modulo From Binary Class">
+    <list default="true" id="16e1fb79-3d05-42be-a07d-7d9814eb77f7" name="Changes" comment="Implemented super constructor and override evaluate method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArithmeticExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArithmeticExp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Binary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Modulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sum.java" afterDir="false" />
     </list>
@@ -75,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669080501259</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Implemented super constructor and override evaluate method">
+      <created>1669081385470</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669081385470</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +104,7 @@
     <MESSAGE value="Created Subclass Number From ArithmeticExp" />
     <MESSAGE value="Created Subclass Binary From ArithmeticExp" />
     <MESSAGE value="Added Subclasses Product, Sum and Modulo From Binary Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Subclasses Product, Sum and Modulo From Binary Class" />
+    <MESSAGE value="Implemented super constructor and override evaluate method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented super constructor and override evaluate method" />
   </component>
 </project>

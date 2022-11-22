@@ -5,8 +5,14 @@ public class Number extends ArithmeticExp {
 
     private int value;
 
+    public Number(int newValue) {
+       value = newValue;
+       evaluate();
+    }
+
+
     @Override
-    public String evaluate() {
-        return "0";
+    public int evaluate() {
+        return 0;
     }
 }

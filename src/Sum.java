@@ -2,11 +2,12 @@
  *
  */
 public class Sum extends Binary{
-    public Sum(ArithmeticExp newLeft, ArithmeticExp newRight) {
+    public Sum(int newLeft, int newRight) {
         super(newLeft, newRight);
+        evaluate();
     }
     @Override
-    public String evaluate() {
-        return "";
+    public int evaluate() {
+        return super.left + super.right;
     }
 }
