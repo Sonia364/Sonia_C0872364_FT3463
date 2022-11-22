@@ -9,7 +9,6 @@ public class Binary extends ArithmeticExp {
     public Binary(int newLeft, int newRight){
         left = newLeft;
         right = newRight;
-        evaluate();
     }
 
     @Override

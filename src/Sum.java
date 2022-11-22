@@ -4,7 +4,6 @@
 public class Sum extends Binary{
     public Sum(int newLeft, int newRight) {
         super(newLeft, newRight);
-        evaluate();
     }
     @Override
     public int evaluate() {
