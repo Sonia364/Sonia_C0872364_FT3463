@@ -6,7 +6,7 @@ public class Number extends ArithmeticExp {
     private int value;
 
     @Override
-    public int evaluate() {
-        return 0;
+    public String evaluate() {
+        return "0";
     }
 }

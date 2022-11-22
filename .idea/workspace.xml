@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16e1fb79-3d05-42be-a07d-7d9814eb77f7" name="Changes" comment="Created Subclass Number From ArithmeticExp">
-      <change beforePath="$PROJECT_DIR$/src/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Number.java" afterDir="false" />
+    <list default="true" id="16e1fb79-3d05-42be-a07d-7d9814eb77f7" name="Changes" comment="Added Subclasses Product, Sum and Modulo From Binary Class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Binary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +61,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669080100312</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created Subclass Binary From ArithmeticExp">
+      <created>1669080240119</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669080240119</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added Subclasses Product, Sum and Modulo From Binary Class">
+      <created>1669080501259</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669080501259</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,6 +92,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Created Subclass Number From ArithmeticExp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Subclass Number From ArithmeticExp" />
+    <MESSAGE value="Created Subclass Binary From ArithmeticExp" />
+    <MESSAGE value="Added Subclasses Product, Sum and Modulo From Binary Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Subclasses Product, Sum and Modulo From Binary Class" />
   </component>
 </project>

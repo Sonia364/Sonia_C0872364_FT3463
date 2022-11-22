@@ -6,9 +6,13 @@ public class Binary extends ArithmeticExp {
     ArithmeticExp left;
     ArithmeticExp right;
 
-    @Override
-    public int evaluate() {
-        return 0;
+    public Binary(ArithmeticExp newLeft, ArithmeticExp newRight){
+        left = newLeft;
+        right = newRight;
     }
 
+    @Override
+    public String evaluate() {
+        return "";
+    }
 }
